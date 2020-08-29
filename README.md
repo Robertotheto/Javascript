@@ -1,6 +1,6 @@
 <h1 align="center" >Introdução ao JavaScript</h1>
 <div align="center" >
-    <img src="./EzgdmaCQuT84bgDL4fhXZS-1200-80.jpg" width="500" >
+    <img src="./javascript.jpg" width="500" >
 </div> 
 
 ***
